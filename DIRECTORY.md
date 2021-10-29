@@ -438,7 +438,7 @@
   * [Abs](https://github.com/TheAlgorithms/Python/blob/master/maths/abs.py)
   * [Abs Max](https://github.com/TheAlgorithms/Python/blob/master/maths/abs_max.py)
   * [Abs Min](https://github.com/TheAlgorithms/Python/blob/master/maths/abs_min.py)
-  * [Add](https://github.com/TheAlgorithms/Python/blob/master/maths/add.py)
+  * [Add](https://github.com/TheAlgorithms/Python/blob/master/maths/add.py) (O(c))
   * [Aliquot Sum](https://github.com/TheAlgorithms/Python/blob/master/maths/aliquot_sum.py)
   * [Allocation Number](https://github.com/TheAlgorithms/Python/blob/master/maths/allocation_number.py)
   * [Area](https://github.com/TheAlgorithms/Python/blob/master/maths/area.py)
