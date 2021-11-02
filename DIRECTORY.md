@@ -135,10 +135,10 @@
 
 ## Data Structures
   * Binary Tree
-    * [Avl Tree](https://github.com/TheAlgorithms/Python/blob/master/data_structures/binary_tree/avl_tree.py)
-    * [Basic Binary Tree](https://github.com/TheAlgorithms/Python/blob/master/data_structures/binary_tree/basic_binary_tree.py)
-    * [Binary Search Tree](https://github.com/TheAlgorithms/Python/blob/master/data_structures/binary_tree/binary_search_tree.py)
-    * [Binary Search Tree Recursive](https://github.com/TheAlgorithms/Python/blob/master/data_structures/binary_tree/binary_search_tree_recursive.py)
+    * [Avl Tree](https://github.com/TheAlgorithms/Python/blob/master/data_structures/binary_tree/avl_tree.py) 0(n**2)
+    * [Basic Binary Tree](https://github.com/TheAlgorithms/Python/blob/master/data_structures/binary_tree/basic_binary_tree.py) 0(n**2)
+    * [Binary Search Tree](https://github.com/TheAlgorithms/Python/blob/master/data_structures/binary_tree/binary_search_tree.py) 0(n**2)
+    * [Binary Search Tree Recursive](https://github.com/TheAlgorithms/Python/blob/master/data_structures/binary_tree/binary_search_tree_recursive.py) 0(n**2)
     * [Binary Tree Mirror](https://github.com/TheAlgorithms/Python/blob/master/data_structures/binary_tree/binary_tree_mirror.py)
     * [Binary Tree Traversals](https://github.com/TheAlgorithms/Python/blob/master/data_structures/binary_tree/binary_tree_traversals.py)
     * [Fenwick Tree](https://github.com/TheAlgorithms/Python/blob/master/data_structures/binary_tree/fenwick_tree.py)
